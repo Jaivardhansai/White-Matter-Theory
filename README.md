@@ -34,7 +34,7 @@ Using SDSS/BOSS void catalogs, the theory predicts residual redshift shifts from
 
 ## 📂 Repository Contents
 
-- `White_Matter_Theory_Paper.pdf` — Full paper with derivations and appendices
+- `wmt.pdf` — Full paper with derivations and appendices
 - `*.tex` — LaTeX source files
 - `wmt_void_analysis.py` — Python code for redshift analysis
 - `void_catalog.fits` and `sdss_galaxies.csv` — Data used for the analysis
