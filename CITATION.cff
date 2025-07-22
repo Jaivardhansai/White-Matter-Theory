@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use White Matter Theory (WMT) in your research, please cite this repository."
+authors:
+  - family-names: Cheripally
+    given-names: Jai Vardhan Sai
+    affiliation: Independent Researcher, India
+title: "White Matter Theory: A Unification of Spacetime and Quantum Fields"
+version: 1.0
+date-released: 2025-07-20
+doi: ""
+url: https://github.com/YourUsername/White-Matter-Theory
+license: CC-BY-4.0
+keywords:
+  - white matter
+  - quantum gravity
+  - theory of everything
+  - general relativity
+  - quantum field theory
+  - scalar field
