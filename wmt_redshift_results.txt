@@ -1,0 +1,3 @@
+Measured 618 redshift residuals
+Mean residual: 146479.05 μz
+Standard deviation: 108847.10 μz
